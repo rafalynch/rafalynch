@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafa</h1>
 <h3 align="center">A fullstack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **at Apx.school**
-
-- 💬 Ask me about **Node and React**
-
 - 📫 How to reach me **rafalynch.dev@gmail.com**
 
 - 👨‍💻 My portfolio : **https://www.rafalynch.com**
